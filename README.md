@@ -1,10 +1,7 @@
 ### <div align="center">frontend developer 준비중👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- 🔭 열심히 준비하는 중입니다.  
   
 
 <br/>  
