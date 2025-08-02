@@ -1,6 +1,6 @@
-### <div align="center">frontend developer 준비중👨‍💻 </div>  
+### <div align="center">frontend developer 준비중👨‍💻  </div>  
   
-
+![Hits](https://dev.wenivops.co.kr/services/weniv-hit-counter/api/v1/badge?url=https%3A%2F%2Fgithub.com%2Fjieunheo&label=hits&labelColor=blue&messageColor=red&logo=github&cacheSeconds=0)
 - 🔭 열심히 준비하는 중입니다.  
   
 
